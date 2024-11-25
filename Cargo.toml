@@ -1,6 +1,11 @@
 [package]
 name = "rustsweeper"
+authors = ["Michael Francis"]
 version = "0.1.0"
+description = "A console minesweeper application to teach myself Rust."
 edition = "2021"
+publish = false
+repository = "https://github.com/mfrancis33/rustsweeper"
+include = ["/src"]
 
 [dependencies]
