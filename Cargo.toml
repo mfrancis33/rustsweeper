@@ -9,3 +9,4 @@ repository = "https://github.com/mfrancis33/rustsweeper"
 include = ["/src"]
 
 [dependencies]
+rand = "0.8.5"
